@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('Layouts.app')
 
 @section('title-block')Страница про нас@endsection
 @section('content')
