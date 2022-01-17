@@ -9,5 +9,5 @@
 
 @section('aside')
 @parent
-<p>Дополнительный текст</p>
+<p>Дополнительны текст</p>
 @endsection
